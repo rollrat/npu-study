@@ -29,6 +29,8 @@
 
 ```
 Matrix vs Tensor vs Layer
-NPU, MCU Scheduling??
+Memory Allocation & Scheduling Optimization
+DL Model Quantization (maybe not)
+MCU Scheduling??
  - Specific model acceleration  (chatgpt, stable diffusion etc)
 ```
