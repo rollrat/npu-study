@@ -34,10 +34,14 @@
  - Face Emotion Detection
  - Real Time Classification
  - Deepfake
- - Chat GPT
+ - Chat GPT, LLaMA 
  - Stable Diffusion
 
-## Hardware Acceleration 
+## Hardware
+
+### Architecture
+
+ - Chiplet-based digital in-memory
 
 ### DLL Acceleration
 
