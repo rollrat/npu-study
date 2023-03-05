@@ -14,7 +14,7 @@
 
 ## Algorithm
 
- - Graph Optimization
+ - Graph Optimization (https://pdfs.semanticscholar.org/e37b/58bb5c056fa972a0a502d46b5abcfd7da5e1.pdf)
  - Dynamic Programming
  - Cost Optimization
  
@@ -36,6 +36,13 @@
  - Deepfake
  - Chat GPT, LLaMA 
  - Stable Diffusion
+ 
+## Lowering
+
+### Compiler
+
+ - Frontend: TVM
+ - Backend: MLIR, CUDA
 
 ## Hardware
 
