@@ -17,6 +17,25 @@
  - Graph Optimization
  - Dynamic Programming
  - Cost Optimization
+ 
+## Machine Learning
+ 
+## Deep Learning Platform
+
+### Basic
+
+ - Convolution Neural Network
+ - Recurrent Neural Network
+ - Graph Neural Network
+ - Generative Adversarial Network
+ 
+### Application
+ 
+ - Face Emotion Detection
+ - Real Time Classification
+ - Deepfake
+ - Chat GPT
+ - Stable Diffusion
 
 ## Hardware Acceleration 
 
