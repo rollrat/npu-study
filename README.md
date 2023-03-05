@@ -41,7 +41,7 @@
 
 ### Architecture
 
- - Chiplet-based digital in-memory
+ - Chiplet-based digital in-memory (https://www.techtarget.com/searchenterpriseai/news/365531813/Infrastructure-to-support-Open-AIs-ChatGPT-could-be-costly)
 
 ### DLL Acceleration
 
