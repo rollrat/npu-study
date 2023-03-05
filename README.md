@@ -37,6 +37,10 @@
  - Chat GPT, LLaMA 
  - Stable Diffusion
  
+### Tools
+
+ - PyTorch (https://news.hada.io/topic?id=5578)
+ 
 ## Lowering
 
 ### Compiler
