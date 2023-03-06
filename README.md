@@ -68,3 +68,7 @@ DL Model Quantization (maybe not)
 MCU Scheduling??
  - Specific model acceleration  (chatgpt, stable diffusion etc)
 ```
+
+### Related News
+
+ - Samsung, SK Hynix (https://n.news.naver.com/article/277/0005226467)
