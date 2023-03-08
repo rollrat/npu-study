@@ -72,3 +72,6 @@ MCU Scheduling??
 ### Related News
 
  - Samsung, SK Hynix (https://n.news.naver.com/article/277/0005226467)
+ - K-Cloud Project (https://www.thelec.kr/news/articleView.html?idxno=19989)
+ - PIM - Process In Memory (http://www.sbiztoday.kr/news/articleView.html?idxno=12956)
+ 
