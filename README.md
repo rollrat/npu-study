@@ -19,6 +19,8 @@
  - Cost Optimization
  
 ## Machine Learning
+
+ - Pattern Recognition and ML: http://norman3.github.io/prml
  
 ## Deep Learning Platform
 
@@ -36,6 +38,7 @@
  - Deepfake
  - Chat GPT, LLaMA 
  - Stable Diffusion
+   - https://pitas.tistory.com/9
  
 ### Tools
 
