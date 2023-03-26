@@ -36,7 +36,8 @@
  - Face Emotion Detection
  - Real Time Classification
  - Deepfake
- - Chat GPT, LLaMA 
+ - Chat GPT, LLaMA
+   - https://www.youtube.com/watch?v=vziygFrRlZ4
  - Stable Diffusion
    - https://pitas.tistory.com/9
  
