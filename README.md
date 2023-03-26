@@ -38,6 +38,7 @@
  - Deepfake
  - Chat GPT, LLaMA
    - https://www.youtube.com/watch?v=vziygFrRlZ4
+   - https://www.youtube.com/watch?v=AA621UofTUA
  - Stable Diffusion
    - https://pitas.tistory.com/9
  
