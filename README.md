@@ -8,6 +8,7 @@
  
 ## PL
 
+ - SNU PL: http://ropas.snu.ac.kr/~dreameye/PL/
  - Rust: https://rinthel.github.io/rust-lang-book-ko/ch08-02-strings.html
  - Ocaml: 
  - Haskell: 
@@ -39,6 +40,7 @@
  - Chat GPT, LLaMA
    - https://www.youtube.com/watch?v=vziygFrRlZ4
    - https://www.youtube.com/watch?v=AA621UofTUA
+   - https://wikidocs.net/book/2155
  - Stable Diffusion
    - https://pitas.tistory.com/9
  
